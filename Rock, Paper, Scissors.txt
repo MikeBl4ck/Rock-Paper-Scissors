@@ -577,7 +577,6 @@ System.out.println("\nThanks For Playing!!");
 System.out.println("****************************************************\n\n\n");
 
 
-//Aesthetics Testing
 alpha.close();
 }
 }
